@@ -71,3 +71,6 @@ bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic topic-test --fr
 Step8: download Kafka tools from http://www.kafkatool.com/download.html
 Run the sh file to install
 Config and connect to Zookeeper default port: 2181
+
+Example: Sample project using Kafka
+https://github.com/chickendev1/kafka-sample-project
